@@ -1,0 +1,33 @@
+('Accuracy =', 0.7974683544303798)
+DecisionTreeModel classifier of depth 4 with 19 nodes
+  If (feature 2 in {0.0})
+   If (feature 1 in {0.0})
+    If (feature 0 in {0.0,1.0})
+     Predict: 1.0
+    Else (feature 0 not in {0.0,1.0})
+     Predict: 0.0
+   Else (feature 1 not in {0.0})
+    If (feature 0 in {1.0})
+     Predict: 0.0
+    Else (feature 0 not in {1.0})
+     If (feature 0 in {0.0})
+      Predict: 0.0
+     Else (feature 0 not in {0.0})
+      Predict: 0.0
+  Else (feature 2 not in {0.0})
+   If (feature 0 in {2.0})
+    If (feature 1 in {0.0})
+     Predict: 0.0
+    Else (feature 1 not in {0.0})
+     Predict: 0.0
+   Else (feature 0 not in {2.0})
+    If (feature 0 in {1.0})
+     If (feature 1 in {0.0})
+      Predict: 1.0
+     Else (feature 1 not in {0.0})
+      Predict: 1.0
+    Else (feature 0 not in {1.0})
+     Predict: 1.0
+
+/home/hadoop/spark/python/lib/pyspark.zip/pyspark/mllib/classification.py:313: UserWarning: Deprecated in 2.0.0. Use ml.classification.LogisticRegression or LogisticRegressionWithLBFGS.
+('Accuracy =', 0.789873417721519)
