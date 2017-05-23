@@ -7,4 +7,4 @@ Lab 2: Created an application that extracts and repurposes given data of Kaggleâ
 
 Lab 3: Analysis and Prediction of various given datasets using Linear Modeling, K-nn classification and K-means clustering algorithms. (R)
 
-Lab 4: Performed Word count, Lemmatization and Word Co-occurrence (n-gram) on given 400+ Latin Text documents efficiently using MapReduce algorithm in Hadoop and Spark. (Java, Hadoop, Spark) 
+Lab 4 & 5: Performed Word count, Lemmatization and Word Co-occurrence (n-gram) on given 400+ Latin Text documents efficiently using MapReduce algorithm in Hadoop and Spark. (Java, Hadoop, Spark) 
