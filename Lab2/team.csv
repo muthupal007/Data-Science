@@ -1,0 +1,300 @@
+"team_api_id","total_goals","team_long_name","buildup_ovr","chance_ovr","defence_ovr"
+1601,280,"Ruch Chorzów",139,186,175
+1773,126,"Oud-Heverlee Leuven",153,157,137
+1957,287,"Jagiellonia Bialystok",158,163,210
+2033,138,"S.C. Olhanense",147,165,155
+2182,372,"Lech Poznan",176,196,160
+2183,184,"P. Warszawa",NA,180,175
+2186,235,"Cracovia",125,168,205
+4049,35,"Tubize",NA,NA,NA
+4064,27,"Feirense",NA,NA,NA
+4087,180,"Évian Thonon Gaillard FC",156,180,165
+4170,31,"US Boulogne Cote D'Opale",NA,165,200
+6269,34,"Novara",179,172,151
+6351,28,"KAS Eupen",NA,160,155
+6367,27,"Uniao da Madeira",NA,NA,NA
+6391,37,"GFC Ajaccio",153,179,146
+6403,292,"FC Paços de Ferreira",142,170,150
+6413,204,"PEC Zwolle",137,165,181
+6421,55,"Leixões SC",NA,165,90
+6433,74,"Go Ahead Eagles",160,132,141
+6493,128,"AC Bellinzona",NA,175,150
+6547,29,"FC Penafiel",147,146,121
+6601,38,"FC Volendam",NA,NA,NA
+6631,24,"FC Dordrecht",134,176,164
+7730,99,"FC Lausanne-Sports",141,164,165
+7788,119,"SC Cambuur",136,159,138
+7794,165,"SC Bastia",174,156,210
+7819,220,"SM Caen",157,165,205
+7841,248,"Rio Ave FC",157,180,153
+7842,167,"Estoril Praia",174,139,150
+7844,300,"Vitória Guimarães",131,179,177
+7869,22,"Córdoba CF",146,171,129
+7878,179,"Granada CF",166,200,170
+7896,46,"Lugano",NA,NA,NA
+7943,141,"Sassuolo",188,186,138
+7947,44,"FCV Dender EH",NA,NA,NA
+7955,171,"Neuchâtel Xamax",NA,190,150
+7992,25,"Trofense",NA,NA,NA
+8019,61,"Górnik Leczna",140,139,149
+8020,245,"Polonia Bytom",NA,150,185
+8021,207,"Zaglebie Lubin",133,192,210
+8023,152,"Pogon Szczecin",134,185,158
+8024,122,"Widzew Lódz",190,185,158
+8025,318,"Slask Wroclaw",140,165,180
+8027,75,"Zawisza Bydgoszcz",145,168,143
+8028,204,"Piast Gliwice",183,169,195
+8030,279,"Lechia Gdansk",162,183,205
+8031,88,"Polonia Bytom",NA,150,185
+8033,169,"Podbeskidzie Bielsko-Biala",193,166,152
+8066,345,"Inverness Caledonian Thistle",169,174,139
+8121,40,"Angers SCO",159,180,140
+8152,35,"FC St. Pauli",161,190,185
+8165,193,"1. FC Nürnberg",153,180,162
+8177,238,"Hertha BSC Berlin",175,172,155
+8178,483,"Bayer 04 Leverkusen",157,210,200
+8191,70,"Burnley",154,210,205
+8194,39,"Fortuna Düsseldorf",198,190,169
+8197,114,"Leicester City",164,185,210
+8203,285,"KV Mechelen",134,150,190
+8226,400,"TSG 1899 Hoffenheim",180,191,200
+8234,33,"FC Ingolstadt 04",160,151,140
+8242,50,"Odra Wodzislaw",NA,155,205
+8244,50,"Widzew Lódz",190,185,158
+8245,237,"Korona Kielce",192,169,172
+8262,38,"SV Darmstadt 98",179,174,129
+8277,423,"Vitesse",145,173,180
+8284,127,"Dundee FC",142,158,154
+8295,30,"Karlsruher SC",164,205,170
+8302,478,"Sevilla FC",183,206,195
+8305,345,"Getafe CF",117,155,164
+8306,45,"UD Las Palmas",147,187,171
+8315,415,"Athletic Club de Bilbao",131,184,170
+8322,77,"Arka Gdynia",NA,150,205
+8342,421,"Club Brugge KV",139,170,200
+8344,32,"Cardiff City",168,210,210
+8348,101,"Moreirense FC",139,144,138
+8350,72,"1. FC Kaiserslautern",167,185,210
+8357,26,"SpVgg Greuther Fürth",167,170,170
+8358,245,"SC Freiburg",151,160,158
+8370,247,"Rayo Vallecano",141,161,178
+8371,232,"CA Osasuna",143,193,177
+8372,83,"SD Eibar",165,179,142
+8388,38,"CD Numancia",137,160,158
+8394,159,"Real Zaragoza",154,166,158
+8398,30,"FC Energie Cottbus",126,175,206
+8406,201,"FC Augsburg",169,188,161
+8426,135,"Partick Thistle F.C.",143,160,143
+8429,185,"Hamilton Academical FC",143,200,195
+8455,583,"Chelsea",157,200,168
+8456,606,"Manchester City",123,210,180
+8457,40,"Dunfermline Athletic",NA,168,148
+8460,31,"SC Paderborn 07",175,168,145
+8462,72,"Portsmouth",148,195,150
+8464,310,"N.E.C.",150,158,146
+8466,216,"Southampton",129,205,210
+8467,308,"St. Johnstone FC",162,150,142
+8472,333,"Sunderland",154,195,165
+8475,105,"Waasland-Beveren",132,140,114
+8479,34,"RC Recreativo",148,140,151
+8481,203,"AS Nancy-Lorraine",146,172,210
+8483,55,"Blackpool",183,205,210
+8485,365,"Aberdeen",184,210,200
+8521,99,"Stade Brestois 29",161,168,210
+8524,283,"Atalanta",146,170,165
+8525,222,"Willem II",150,166,153
+8526,130,"De Graafschap",NA,153,137
+8528,200,"Wigan Athletic",144,190,165
+8529,309,"Cagliari",167,196,187
+8530,251,"Catania",175,178,147
+8533,285,"Chievo Verona",187,170,165
+8534,86,"Empoli",145,186,164
+8535,440,"Fiorentina",121,172,184
+8537,66,"Livorno",183,172,163
+8540,351,"Palermo",168,165,152
+8543,417,"Lazio",188,220,190
+8548,324,"Rangers",153,210,200
+8549,28,"Middlesbrough",144,190,147
+8550,31,"FC Metz",152,175,150
+8551,149,"Siena",144,183,160
+8558,338,"RCD Espanyol",146,196,180
+8559,181,"Bolton Wanderers",167,185,154
+8560,316,"Real Sociedad",162,171,171
+8564,496,"Milan",170,177,164
+8569,190,"GKS Belchatów",143,175,200
+8571,267,"KV Kortrijk",129,159,185
+8573,102,"KV Oostende",155,140,133
+8576,116,"AC Ajaccio",168,180,140
+8581,241,"Levante UD",171,182,155
+8583,168,"AJ Auxerre",168,164,145
+8586,481,"Tottenham Hotspur",133,210,181
+8588,107,"RC Lens",165,180,200
+8592,462,"Olympique de Marseille",169,210,200
+8593,647,"Ajax",117,199,193
+8596,68,"Falkirk",NA,200,200
+8597,346,"Kilmarnock",167,205,200
+8600,415,"Udinese",205,199,160
+8602,118,"Wolverhampton Wanderers",136,210,210
+8603,225,"Real Betis Balompié",145,206,165
+8611,509,"FC Twente",131,172,197
+8613,51,"Boavista FC",153,128,148
+8614,76,"Sparta Rotterdam",NA,140,90
+8633,843,"Real Madrid CF",153,200,178
+8634,849,"FC Barcelona",122,175,195
+8635,427,"RSC Anderlecht",149,182,190
+8636,496,"Inter",182,203,165
+8639,450,"LOSC Lille",152,184,180
+8640,652,"PSV",153,200,167
+8649,192,"Ross County FC",153,153,143
+8650,531,"Liverpool",171,180,172
+8654,326,"West Ham United",184,171,140
+8655,175,"Blackburn Rovers",185,185,160
+8658,75,"Birmingham City",174,210,210
+8659,305,"West Bromwich Albion",145,195,210
+8661,238,"RCD Mallorca",172,163,156
+8667,144,"Hull City",151,195,210
+8668,439,"Everton",137,180,180
+8673,409,"Legia Warszawa",141,170,195
+8674,390,"FC Groningen",142,177,149
+8678,45,"Bournemouth",139,200,210
+8682,79,"Le Mans FC",NA,195,200
+8686,530,"Roma",153,208,155
+8689,378,"FC Lorient",158,180,200
+8690,30,"Reggio Calabria",163,186,140
+8696,160,"Racing Santander",147,205,168
+8697,423,"SV Werder Bremen",174,216,205
+8721,463,"VfL Wolfsburg",170,210,171
+8722,226,"1. FC Köln",171,165,170
+9746,30,"Le Havre AC",154,180,168
+9747,122,"En Avant de Guingamp",169,170,145
+9748,497,"Olympique Lyonnais",161,185,200
+9761,294,"NAC Breda",153,141,143
+9764,110,"Gil Vicente FC",176,152,149
+9765,29,"Portimonense",NA,NA,NA
+9768,411,"Sporting CP",178,204,174
+9771,85,"União de Leiria, SAD",NA,150,154
+9772,568,"SL Benfica",178,185,175
+9773,541,"FC Porto",173,196,178
+9776,29,"Eintracht Braunschweig",183,195,157
+9777,77,"Servette FC",NA,175,170
+9783,241,"RC Deportivo de La Coruña",157,187,154
+9788,403,"Borussia Mönchengladbach",116,185,160
+9789,551,"Borussia Dortmund",170,194,178
+9790,344,"Hamburger SV",164,200,175
+9791,403,"Heracles Almelo",147,173,169
+9798,43,"Reading",144,210,200
+9800,257,"St. Mirren",178,210,200
+9803,343,"Roda JC Kerkrade",133,159,146
+9804,241,"Torino",209,189,145
+9807,148,"CF Os Belenenses",157,160,135
+9809,71,"Naval 1° de Maio",NA,165,121
+9810,296,"Eintracht Frankfurt",153,165,151
+9817,40,"Watford",160,205,205
+9823,653,"FC Bayern Munich",97,205,184
+9824,100,"FC Vaduz",141,137,133
+9825,573,"Arsenal",140,150,170
+9826,119,"Crystal Palace",173,205,185
+9827,404,"Girondins de Bordeaux",139,190,195
+9829,287,"AS Monaco",168,165,205
+9830,135,"FC Nantes",189,160,152
+9831,342,"OGC Nice",175,165,210
+9836,38,"Dijon FCO",154,165,149
+9837,168,"Stade de Reims",154,165,140
+9839,152,"VVV-Venlo",NA,164,155
+9847,568,"Paris Saint-Germain",174,191,210
+9850,160,"Norwich City",138,195,200
+9851,367,"Stade Rennais FC",167,195,210
+9853,371,"AS Saint-Étienne",165,175,148
+9855,55,"Grenoble Foot 38",NA,195,195
+9857,263,"Bologna",164,175,135
+9858,34,"Brescia",141,180,155
+9860,317,"Heart of Midlothian",168,210,200
+9864,377,"Málaga CF",129,191,164
+9865,202,"UD Almería",152,180,193
+9867,40,"CD Tenerife",163,180,174
+9868,38,"Xerez Club Deportivo",NA,159,165
+9869,200,"Real Sporting de Gijón",153,185,195
+9873,256,"Valenciennes FC",160,188,155
+9874,246,"FC Sochaux-Montbéliard",164,184,165
+9875,514,"Napoli",180,215,165
+9876,145,"Hellas Verona",157,173,169
+9878,27,"Pescara",152,180,145
+9879,265,"Fulham",142,190,138
+9880,98,"Cesena",143,170,145
+9882,318,"Sampdoria",130,180,175
+9885,543,"Juventus",105,195,169
+9888,121,"Lecce",NA,175,165
+9891,35,"Frosinone",157,156,193
+9904,359,"Hannover 96",144,175,210
+9905,320,"1. FSV Mainz 05",178,185,170
+9906,524,"Atlético Madrid",157,206,160
+9908,408,"FC Utrecht",152,182,159
+9910,184,"RC Celta de Vigo",169,179,169
+9911,72,"VfL Bochum",164,172,172
+9912,29,"DSC Arminia Bielefeld",166,165,138
+9925,695,"Celtic",180,205,200
+9927,403,"Motherwell",172,205,200
+9930,153,"FC Aarau",156,181,150
+9931,619,"FC Basel",170,186,180
+9938,438,"Dundee United",171,205,200
+9941,339,"Toulouse FC",158,165,140
+9956,429,"Grasshopper Club Zürich",164,184,160
+9976,76,"Bari",157,193,161
+9984,213,"KSV Cercle Brugge",145,200,195
+9985,341,"Standard de Liège",161,182,205
+9986,201,"Sporting Charleroi",160,148,210
+9987,348,"KRC Genk",148,182,205
+9989,113,"Lierse SK",171,169,159
+9991,390,"KAA Gent",142,184,166
+9993,174,"Beerschot AC",NA,185,210
+9994,279,"Sporting Lokeren",159,154,200
+9996,42,"Royal Excel Mouscron",150,150,140
+9997,115,"Sint-Truidense VV",NA,154,150
+9998,129,"RAEC Mons",160,168,138
+9999,62,"KSV Roeselare",NA,125,205
+10000,306,"SV Zulte-Waregem",147,153,200
+10001,217,"KVC Westerlo",148,167,210
+10003,233,"Swansea City",131,210,210
+10167,272,"Parma",152,176,166
+10172,115,"Queens Park Rangers",141,210,210
+10179,371,"FC Sion",155,177,146
+10189,426,"FC Schalke 04",143,195,185
+10190,276,"FC St. Gallen",146,157,155
+10191,279,"FC Thun",152,166,145
+10192,529,"BSC Young Boys",172,202,170
+10194,322,"Stoke City",138,195,153
+10199,421,"FC Luzern",165,175,153
+10205,364,"Villarreal CF",126,161,165
+10211,93,"SC Beira Mar",NA,165,155
+10212,316,"CS Marítimo",182,186,144
+10213,26,"Amadora",NA,NA,NA
+10214,332,"CD Nacional",167,165,156
+10215,240,"Académica de Coimbra",150,172,151
+10217,366,"ADO Den Haag",162,181,173
+10218,154,"Excelsior",163,162,106
+10219,153,"RKC Waalwijk",142,159,150
+10228,470,"SC Heerenveen",150,171,183
+10229,492,"AZ",154,185,184
+10233,392,"Genoa",184,182,154
+10235,489,"Feyenoord",154,165,160
+10238,238,"Vitória Setúbal",149,165,140
+10242,71,"ES Troyes AC",148,150,140
+10243,468,"FC Zürich",157,165,163
+10249,344,"Montpellier Hérault SC",162,160,210
+10251,259,"Hibernian",148,200,200
+10252,335,"Aston Villa",170,185,145
+10260,582,"Manchester United",134,200,163
+10261,324,"Newcastle United",152,195,161
+10264,398,"SC Braga",145,166,150
+10265,332,"Wisla Kraków",135,183,205
+10267,484,"Valencia CF",116,185,175
+10268,65,"Elche CF",171,165,158
+10269,415,"VfB Stuttgart",168,200,175
+10278,36,"Hércules Club de Fútbol",154,178,160
+10281,170,"Real Valladolid",153,172,161
+108893,21,"AC Arles-Avignon",156,141,158
+158085,101,"FC Arouca",174,160,113
+177361,33,"Termalica Bruk-Bet Nieciecza",NA,NA,NA
+188163,34,"Tondela",NA,NA,NA
+208931,37,"Carpi",190,160,141
+274581,71,"Royal Excel Mouscron",150,150,140
